@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=eliotvonecklie&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=eliotvonecklie&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotvonecklie&layout=compact" />
-</div>
+|[![trophy](https://github-profile-trophy.vercel.app/?username=eliotvonecklie&theme=nord&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)|
+|:-:|
+|![EliotVonEcklie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliotvonecklie&show_icons=true&theme=nord)|
