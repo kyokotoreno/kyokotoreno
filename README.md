@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|[![trophy](https://github-profile-trophy.vercel.app/?username=eliotvonecklie&theme=nord&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=eliotvonecklie&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
 |:-:|
 |![EliotVonEcklie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliotvonecklie&show_icons=true&theme=nord)|
