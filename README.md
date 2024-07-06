@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+|[![trophy](https://github-profile-trophy.vercel.app/?username=kyokotoreno&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
+|:-:|
+|![kyokotoreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyokotoreno&show_icons=true&theme=nord)|
+
 -->
 
 - 🔭 I’m currently working on [Sushiroll](https://github.com/nozo-tech/sushiroll)!
 - 😄 Pronouns: She/They <3
 
-|[![trophy](https://github-profile-trophy.vercel.app/?username=kyokotoreno&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
-|:-:|
-|![kyokotoreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyokotoreno&show_icons=true&theme=nord)|
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyokotoreno&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+![kyokotoreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyokotoreno&show_icons=true&theme=nord)
