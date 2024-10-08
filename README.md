@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Sushiroll](https://github.com/nozo-tech/sushiroll)!
-- 😄 Pronouns: she/they <3
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyokotoreno&theme=nord&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
